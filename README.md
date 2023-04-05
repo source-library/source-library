@@ -75,9 +75,6 @@ This factsheet is maintained by a large team of contributors.
 
 - **Apa/Scuter** (Scuter#4210, u/Apathetizer)
 Main factsheet editor and manager. Feel free to DM me with anything to add, I’ll take a look! There’s no need to be formal about it. Contacting me on Discord will get you a faster response than on Reddit.
-- **official_prageru**
-Owner. /u/sourcelibrarian on Reddit, @official_prageru on Instagram
-If you want to help/contribute to the source library you can [join my discord](https://discord.gg/JNXrNC8Yja "join my discord"). I have designated channels for improving this factsheet and also welcome additions to our Resource Compilations section!
 - **Rainmaker** (Rainmaker#0747 on Discord)
 - **Sam/PAPOS** (PAPOS#3917 Discord, @tertium_quid_ on Twitter)
 - **Vuvuzuela** (Vuvuzuela#5838 on Discord, @Vuvuzuela420 on Twitter, u/Albamc35 on Reddit)
