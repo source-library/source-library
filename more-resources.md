@@ -47,11 +47,10 @@
 - [massive reading list](https://docs.google.com/document/d/1kwDGZFH2-jFr4xZ2ynxQkihYwIVh_uZlp1-Q73uXzso/edit "massive reading list") by Joshua Briond, covers a ton of topics
 - [The Fundamentals of Marx](https://www.youtube.com/playlist?list=PLuzqoNvqVKydyRAMjDAHDikbVY9BDLC7V "The Fundamentals of Marx"), series of videos which covers basic Marxist ideas like commodity fetishism, surplus value, falling rate of profit, etc
 - [Some extra stuff](https://www.youtube.com/playlist?list=PLfqdvDnX3lbCtADtZDCg0HQB3Nime4rVS "Some extra stuff") about Marx’s theory and ideas
-
-#### Audiobook Channels:
-- [Socialism For All](https://www.youtube.com/c/SocialismForAll "Socialism For All")
-- [Audible Socialism](https://www.youtube.com/c/AudibleSocialism "Audible Socialism")
-- [LeftistTheoryAudiobooks](https://www.youtube.com/c/LeftistTheoryAudiobooks/ "LeftistTheoryAudiobooks")
+- Audiobook Channels:
+  - [Socialism For All](https://www.youtube.com/c/SocialismForAll "Socialism For All")
+  - [Audible Socialism](https://www.youtube.com/c/AudibleSocialism "Audible Socialism")
+  - [LeftistTheoryAudiobooks](https://www.youtube.com/c/LeftistTheoryAudiobooks/ "LeftistTheoryAudiobooks")
 
 ###  Unorganized/Miscellaneous:
 - [13/50 meme debunk](https://docs.google.com/document/d/1L_qk_3lC20swQVEGDQPRJko-0FSH-egnNtmFW5gOFFI/edit "13/50 meme debunk") by Scuter
@@ -74,3 +73,4 @@
 - [Another document by someone else that does the same as the above one](https://docs.google.com/document/d/1pomyRKT0v-PtnpE5gzxUC2tHTSLO8HkeWTNUAKjCkC0/edit "Another document by someone else that does the same as the above one")
 - [Debunking ‘human nature’  myth](https://docs.google.com/document/d/1AumVF0JV_dZrTSiW5z5L2oj9fj3pCLRcZTiqYyG-4bo/edit "Debunking ‘human nature’  myth") by u/Albamc35 (talks about the idea of people being inherently selfish, in the context of anti-socialist arguments)
 - [Good PragerU Debunks](https://www.youtube.com/playlist?list=PLdjtfnD9syhEAPCNxy3ABBO1CZV3tjqvq "Good PragerU Debunks"), Youtube playlist of PragerU debunks which generally are well-spoken, cite sources, and engage in good faith with the content
+- [Trump Research Book](https://trumpresearchbook.com/), which goes in detail about the blunders and policy failures of Trump. These pages collectively cover dozens of different policy areas where Trump's policies and actions caused harm. This is coupled with [a similar research book on Ron Desantis](https://desantisresearchbook.com/).
