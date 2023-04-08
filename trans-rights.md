@@ -765,7 +765,7 @@ Keep in mind that singular incidents don’t actually prove a broader statistica
 <summary>Detransition/Regret</summary>
 
 # **Detransition/Regret**
-**Detransitioning is rare in the first place, and when it does happen it is overwhelmingly driven by various forms of discrimination, not uncertainty with regards to identity. Regret rates (distinct from detransition rates) are also very low. This seems to be true for both trans adults and trans kids. Credit for most of this stuff goes to [this doc](https://docs.google.com/document/d/1KxCxhpj1CAOr8CzWow-rUeBZig6q6n49x3MPdFXhzL8/edit?usp=drivesdk) by [u/Albamc35](https://www.reddit.com/user/Albamc35/), feel free to cite it for convenience**
+**Detransitioning is rare in the first place, and when it does happen it is overwhelmingly driven by various forms of discrimination, not uncertainty with regards to identity. Regret rates (distinct from detransition rates) are also very low. This seems to be true for both trans adults and trans kids. Credit for most of this stuff goes to [this doc](https://docs.google.com/document/d/1KxCxhpj1CAOr8CzWow-rUeBZig6q6n49x3MPdFXhzL8/edit?usp=drivesdk) by [u/Albamc35](https://www.reddit.com/user/Albamc35/), feel free to cite it for convenience. [This resource](https://www.gendergp.com/detransition-facts/) from GenderGP is also a helpful resource.**
 
 ## Trans Kids Detransition:
 
