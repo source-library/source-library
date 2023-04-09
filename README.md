@@ -14,8 +14,6 @@ This extensive factsheet is a compilation of various studies, datapoints, pieces
   
 - Join us on [Discord!](https://discord.gg/JNXrNC8Yja) You can help with the Source Library here!
 
-- Follow our Reddit account, [/u/sourcelibrarian](https://www.reddit.com/user/sourcelibrarian/), for updates! If something happens to this doc or a related one, you can check there.
-
 #### On doc changes
 
 The original source library was created as a Google document on June 15, 2019, but was flagged without warning nor reason on December 6, 2020. It was recreated as another Google doc and lasted until late November 2022. It has since moved to this new location. As it has been taken down multiple times before, it's possible it could be taken down again. Feel free to download these webpages onto your own device as an html or [archive it with a webpage archiver](https://web.archive.org/save "archive it with a webpage archiver").
