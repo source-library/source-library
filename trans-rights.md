@@ -820,7 +820,7 @@ Also, trans kids are not ‘going through a phase.’ First of all, [an article 
 
 - [A study on 66 patients](https://pubmed.ncbi.nlm.nih.gov/11564029/) found none of the present patients claimed to regret their decision to undergo gender-transformation surgery.
 
-- [A **meta analysis**](https://web.archive.org/web/20070812100135/http://www.symposion.com:80/ijt/pfaefflin/6002-6.htm%23Treatment%20Results), which looked at 74 follow-up studies and 8 reviews of outcome studies, found **over a 30 year period, only 20 MTF and 5 FTM regretted transitioning due to gender identity**. According to [this study that mentions this](https://www.amsa.org/wp-content/uploads/2015/04/CareOfThePatientUndergoingSRS.pdf), there were 1000-1600 MTF and 400-550 FTM patients, which equates to regret rates of \<1% for FTMs and 1-1.5% for MTFs (page 4).
+- [A **meta analysis**](https://web.archive.org/web/20070812100135/http://www.symposion.com/ijt/pfaefflin/6002-6.htm), which looked at 74 follow-up studies and 8 reviews of outcome studies, found **over a 30 year period, only 20 MTF and 5 FTM regretted transitioning due to gender identity**. According to [this study that mentions this](https://www.amsa.org/wp-content/uploads/2015/04/CareOfThePatientUndergoingSRS.pdf), there were 1000-1600 MTF and 400-550 FTM patients, which equates to regret rates of \<1% for FTMs and 1-1.5% for MTFs (page 4).
 
 - [https://journals.lww.com/prsgo/Fulltext/2021/03000/Regret_after_Gender_affirmation_Surgery__A.22.aspx](https://journals.lww.com/prsgo/Fulltext/2021/03000/Regret_after_Gender_affirmation_Surgery__A.22.aspx) 2021 systemic review and meta-analysis
 
