@@ -92,7 +92,7 @@
   - The majority of studies on the subject [involve very small sample sizes](https://docs.google.com/document/d/17_Pe_pzFVw3U8Uom3SKJG-__mHuYJsXeR7-lohuF9-M/edit "involve very small sample sizes") which somewhat undermines their reliability. This is to be expected for the field though, due to the small size of the trans population (small populations are harder to get large samples of), so that’s ultimately to be expected.
 
 ### Long-term Follow-ups:
-- [Weyers et al. 09](https://www.jsm.jsexmed.org/article/S1743-6095(15)32422-X/fulltext "Weyers et al. 09")
+- [Weyers et al. 09](https://pubmed.ncbi.nlm.nih.gov/19040622/ "Weyers et al. 09")
   - **50 MtF trans people** who had done SRS **6 months earlier**
   - **In long-term follow-ups**, trans women "**function well on a physical, emotional, psychological and social level**"
   - However, they have problems when it comes to arousal, lubrication, and pain - a minor trade-off for the previously mentioned well-being measures
